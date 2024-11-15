@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Élisée Kouao (@redhat-git) a student in 1ʳᵉ year of computer science.
-- 👀 I'm interested in cybersecurity
+- 👋 Hi, I'm Élisée Kouao (@EliseeKouao) a student in 2nd year of computer science.
+- 👀 I'm interested in data science
 - 🌱 I'm learning programming
 - 💞️ I'm looking to collaborate on programming projects
 - 📫 How to reach me (eliseekouao04@gmail.com)
